@@ -3,10 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Model;
+package view;
 
 
-public class CategoryUser {
-    private int categoryId;
-    private String categoryName;
+public class MenuData {
+    
 }
